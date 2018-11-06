@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2F4F4F;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    border: none;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 10px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 30px;
+}
